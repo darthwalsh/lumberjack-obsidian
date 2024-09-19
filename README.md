@@ -32,7 +32,7 @@ The real power, though, is in its URL schemes. The clear-cut commands `obsidian:
 
 - Install an app that creates a homescreen shortcut that open a URL, e.g. [this](https://play.google.com/store/apps/details?id=com.deltacdev.websiteshortcut).
 - Create a new shortcut with `obsidian://log`
-- Stiking the shortcut opens your daily note, so start logging!
+- Striking the shortcut opens your daily note, so start logging!
 
 ### Manually installing the plugin
 
