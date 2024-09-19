@@ -26,7 +26,13 @@ The real power, though, is in its URL schemes. The clear-cut commands `obsidian:
 - Run the `obsidian://log` command to open Obsidian and log a new thought in your daily note at an appended line and start writing immediately.
   - On iOS, this is easy to set up via Shortcuts. Install [this shortcut](https://www.icloud.com/shortcuts/1efa6b9ee42242bd906884d3d8a52b92), add it to your homescreen, then tap the button! 
 - Run the `obsidian://timber` command to create a new draft in a designated inbox folder and start writing immediately.
-  -  On iOS, this is easy to set up via Shortcuts. Install [this shortcut](https://www.icloud.com/shortcuts/6594b965deab401e814aeeeb593b551d), add it to your homescreen, then tap the button! 
+  -  On iOS, this is easy to set up via Shortcuts. Install [this shortcut](https://www.icloud.com/shortcuts/6594b965deab401e814aeeeb593b551d), add it to your homescreen, then tap the button!
+
+#### Setting up on Android
+
+- Install an app that creates a homescreen shortcut that open a URL, e.g. [this](https://play.google.com/store/apps/details?id=com.deltacdev.websiteshortcut).
+- Create a new shortcut with `obsidian://log`
+- Stiking the shortcut opens your daily note, so start logging!
 
 ### Manually installing the plugin
 
